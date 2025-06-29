@@ -61,7 +61,7 @@ const POSPage: React.FC = () => {
 
       const receipt: Receipt = {
         sale: newSale,
-        businessName: 'Millet Home Foods',
+        businessName: 'ForkFlow',
         businessAddress: '123 Food Street, Bangalore, Karnataka 560001',
         gstNumber: 'GSTIN29ABCDE1234F1Z5',
         contactNumber: '+91 80 1234 5678',

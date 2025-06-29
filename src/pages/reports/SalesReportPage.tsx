@@ -277,7 +277,7 @@ const SalesReportPage: React.FC = () => {
 
     // Create accounting statement
     const accountingData = [
-      ['MILLET HOME FOODS - ACCOUNTING STATEMENT'],
+      ['ForkFlow - ACCOUNTING STATEMENT'],
       [`Period: ${format(new Date(startDate), 'dd/MM/yyyy')} to ${format(new Date(endDate), 'dd/MM/yyyy')}`],
       [`Generated on: ${format(new Date(), 'dd/MM/yyyy HH:mm:ss')}`],
       [''],

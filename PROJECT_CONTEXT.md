@@ -1,8 +1,8 @@
-# Millet Home Foods POS - Project Context
+# ForkFlow POS - Project Context
 
 ## Overview
 
-Millet Home Foods POS is a comprehensive point-of-sale system designed specifically for food retail businesses. Built with React, TypeScript, and Firebase, this web application provides a complete solution for managing sales, inventory, users, and reporting across multiple locations.
+ForkFlow POS is a comprehensive point-of-sale system designed specifically for food retail businesses. Built with React, TypeScript, and Firebase, this web application provides a complete solution for managing sales, inventory, users, and reporting across multiple locations.
 
 ## System Architecture
 

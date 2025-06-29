@@ -127,7 +127,7 @@ const LocationForm: React.FC<LocationFormProps> = ({ location, onClose }) => {
             name="storeName"
             value={formData.storeName}
             onChange={handleChange}
-            placeholder="e.g., Millet Home Foods - Downtown"
+            placeholder="e.g., ForkFlow - Downtown"
             required
           />
         </div>

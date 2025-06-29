@@ -83,7 +83,7 @@ const SuperAdminDashboard: React.FC = () => {
         <div className="bg-gradient-to-r from-green-600 to-green-700 rounded-lg p-6 text-white">
           <div className="flex items-center justify-between">
             <div>
-              <h2 className="text-2xl font-bold">Millet Home Foods Franchise</h2>
+              <h2 className="text-2xl font-bold">ForkFlow Franchise</h2>
               <p className="text-green-100 mt-1">Complete franchise management and oversight</p>
             </div>
             <div className="text-right">

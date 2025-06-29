@@ -207,7 +207,7 @@ const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children, title }) =>
           <div className="flex items-center justify-between p-4 border-b border-gray-200">
             <div className="flex items-center">
               <Utensils size={24} className="text-green-700" />
-              <span className="ml-2 text-lg font-bold text-green-700">Millet Home Foods</span>
+              <span className="ml-2 text-lg font-bold text-green-700">ForkFlow</span>
             </div>
             <button
               className="p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 transition-colors duration-200"
@@ -254,7 +254,7 @@ const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children, title }) =>
               <div className="flex-shrink-0 flex items-center px-4">
                 <Utensils size={24} className="text-green-700 flex-shrink-0" />
                 {!sidebarCollapsed && (
-                  <span className="ml-2 text-xl font-bold text-green-700 truncate">Millet Home Foods</span>
+                  <span className="ml-2 text-xl font-bold text-green-700 truncate">ForkFlow</span>
                 )}
               </div>
               <nav className="mt-5 flex-1 px-2 bg-white space-y-1">

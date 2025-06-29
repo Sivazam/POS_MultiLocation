@@ -27,7 +27,7 @@ const AppLogo: React.FC<AppLogoProps> = ({ size = 'md', variant = 'dark' }) => {
   return (
     <div className={`flex items-center font-bold ${sizeClasses[size]} ${colorClasses[variant]}`}>
       <Utensils size={iconSizes[size]} className="mr-2" />
-      <span>Millet Home Foods</span>
+      <span>ForkFlow</span>
     </div>
   );
 };

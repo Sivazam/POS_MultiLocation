@@ -7,7 +7,7 @@ import ErrorAlert from '../../components/ui/ErrorAlert';
 
 const SuperAdminSettingsPage: React.FC = () => {
   const [settings, setSettings] = useState({
-    systemName: 'Millet Home Foods POS',
+    systemName: 'ForkFlow POS',
     defaultCurrency: 'INR',
     defaultTaxRate: '5',
     backupFrequency: 'daily',

@@ -1,10 +1,10 @@
-# Millet Home Foods POS - Business Pitch Documentation
+# ForkFlow POS - Business Pitch Documentation
 
 ## Executive Summary
 
-Millet Home Foods POS is a comprehensive, cloud-based point-of-sale solution designed specifically for food retail businesses. Our system combines powerful inventory management, streamlined sales processing, and detailed analytics to help businesses increase efficiency, reduce costs, and grow revenue.
+ForkFlow POS is a comprehensive, cloud-based point-of-sale solution designed specifically for food retail businesses. Our system combines powerful inventory management, streamlined sales processing, and detailed analytics to help businesses increase efficiency, reduce costs, and grow revenue.
 
-With flexible deployment options, role-based access control, and customizable features, Millet Home Foods POS adapts to businesses of all sizes—from single-location stores to multi-location franchises.
+With flexible deployment options, role-based access control, and customizable features, ForkFlow POS adapts to businesses of all sizes—from single-location stores to multi-location franchises.
 
 ## Key Features & Benefits
 
@@ -120,14 +120,14 @@ With flexible deployment options, role-based access control, and customizable fe
 ## Case Studies
 
 ### Organic Foods Retailer
-A multi-location organic foods retailer implemented Millet Home Foods POS and saw:
+A multi-location organic foods retailer implemented ForkFlow POS and saw:
 - 35% reduction in checkout time
 - 28% decrease in inventory discrepancies
 - 15% increase in average transaction value
 - 40% less time spent on end-of-day reconciliation
 
 ### Single-Location Health Food Store
-A small health food store switched to Millet Home Foods POS and experienced:
+A small health food store switched to ForkFlow POS and experienced:
 - 22% increase in sales within 3 months
 - 45% reduction in out-of-stock situations
 - 30% time savings on inventory management
@@ -166,7 +166,7 @@ Our unique feature configuration system allows you to tailor the POS to your spe
 ## Getting Started
 
 ### Free Demo
-Experience Millet Home Foods POS with a no-obligation demo. Our team will:
+Experience ForkFlow POS with a no-obligation demo. Our team will:
 - Provide a personalized walkthrough of all features
 - Answer your specific questions
 - Demonstrate how the system addresses your unique needs
@@ -188,4 +188,4 @@ Ready to transform your food retail business with a modern, efficient POS system
 
 ---
 
-*Millet Home Foods POS: Empowering food retailers with technology that grows your business.*
+*ForkFlow POS: Empowering food retailers with technology that grows your business.*

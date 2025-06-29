@@ -280,7 +280,7 @@ const ReceiptModal: React.FC<ReceiptModalProps> = ({ receipt, onClose, onPrint, 
                 <div class="spacer"></div>
                 <div class="small">This is a computer-generated receipt</div>
                 <div class="spacer"></div>
-                <div class="small">Powered by Millet Home Foods POS</div>
+                <div class="small">Powered by ForkFlow POS</div>
               </div>
             </div>
           </body>

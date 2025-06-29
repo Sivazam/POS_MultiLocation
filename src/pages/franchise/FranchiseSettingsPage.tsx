@@ -10,7 +10,7 @@ const FranchiseSettingsPage: React.FC = () => {
   const { currentFranchise, updateFranchise } = useFranchises();
   
   const [settings, setSettings] = useState({
-    franchiseName: currentFranchise?.name || 'Millet Home Foods - Mumbai',
+    franchiseName: currentFranchise?.name || 'ForkFlow - Mumbai',
     ownerName: currentFranchise?.ownerName || 'Rajesh Sharma',
     email: currentFranchise?.email || 'rajesh@mumbai.millethomefoods.com',
     phone: currentFranchise?.phone || '+91 98765 43210',
@@ -24,7 +24,7 @@ const FranchiseSettingsPage: React.FC = () => {
     preferences: {
       currency: 'INR',
       taxRate: '5',
-      receiptFooter: currentFranchise?.branding?.receiptFooter || 'Thank you for choosing Millet Home Foods!',
+      receiptFooter: currentFranchise?.branding?.receiptFooter || 'Thank you for choosing ForkFlow!',
       enableNotifications: true,
       autoBackup: true
     }

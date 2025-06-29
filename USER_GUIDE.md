@@ -1,4 +1,4 @@
-# Millet Home Foods POS - User Guide
+# ForkFlow POS - User Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Millet Home Foods POS is a comprehensive point-of-sale system designed specifically for food retail businesses. The system supports multiple user roles with different permission levels, inventory management, sales tracking, returns processing, and detailed reporting.
+ForkFlow POS is a comprehensive point-of-sale system designed specifically for food retail businesses. The system supports multiple user roles with different permission levels, inventory management, sales tracking, returns processing, and detailed reporting.
 
 ## Getting Started
 
@@ -198,4 +198,4 @@ As a Salesperson, you handle customer transactions and basic sales operations.
 ### Getting Help
 - Contact your system administrator for account issues
 - Refer to this user guide for feature instructions
-- For technical support, contact Millet Home Foods support team
+- For technical support, contact ForkFlow support team
